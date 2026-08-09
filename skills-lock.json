@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "learn": {
+      "source": "rohitg00/ai-engineering-from-scratch",
+      "sourceType": "github",
+      "skillPath": "skills/learn/SKILL.md",
+      "computedHash": "b723dedd5a8f71c0f17b0ad6708eca8fc1bce77fbdb73803ad45d3aec79cf602"
+    }
+  }
+}
