@@ -2,7 +2,7 @@
 name: start-learning
 version: 1.0.0
 description: >
-  One-time onboarding for the AI Engineering from Scratch curriculum (503
+  One-time Onboarding for the AI Engineering from Scratch curriculum (503
   lessons, 20 phases). Interviews the learner, runs the placement quiz, and
   writes LEARNING.md — a persistent study plan the /learn skill drives.
   Trigger phrases: "start learning", "set up the course", "begin the
